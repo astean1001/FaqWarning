@@ -1,2 +1,2 @@
 # FaqWarning
-Bypassing Warning.or.kt with Dummy Request
+Bypassing Warning.or.kr with Dummy Request
